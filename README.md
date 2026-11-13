@@ -104,20 +104,21 @@
 
 ## 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 Loan Default Risk Prediction</h3>
-      <p>Predicts default risk on <b>10,000+ loan applicant records</b>. Compared Logistic Regression, Random Forest, and XGBoost — <b>XGBoost reached 85% ROC-AUC</b>. Handled class imbalance with SMOTE and tuned via GridSearchCV, improving default-case recall by <b>12%</b>. Deployed as a REST API with a documented setup, data schema, and model pipeline.</p>
-      <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-      <br/><br/>
-      <a href="https://github.com/vipinrahul1997">🔗 Repo</a>
-    </td>
-    <td width="50%" valign="top">
+
+<td width="50%" valign="top">
+  <h3>👥 HR Employee Attrition Prediction</h3>
+  <p>Developed an end-to-end Machine Learning project to predict employee attrition and identify key factors influencing employee turnover. Integrated <b>Snowflake</b> to retrieve and manage employee data, performed data preprocessing, feature engineering, and Exploratory Data Analysis (EDA). Built and evaluated a Machine Learning model, implemented model serialization using <b>Pickle</b>, and developed an interactive <b>Streamlit application</b> to predict employee attrition and present insights through visualizations.</p>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <br/><br/>
+  <a href="https://github.com/vipinrahul1997">🔗 Repo</a>
+</td>
+<td width="50%" valign="top">
+</td>
       <h3>💬 Product Review Sentiment Analysis (NLP)</h3>
       <p>NLP pipeline (text cleaning, TF-IDF, tokenization) classifying <b>15,000+ e-commerce reviews</b> as positive, negative, or neutral. Compared Naive Bayes and SVM, selecting the best model on <b>F1-score (0.81)</b> for imbalanced classes. Modular scripts, <code>requirements.txt</code>, and a clear README make it easy to reproduce.</p>
       <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" />
