@@ -119,15 +119,19 @@
 </td>
 <td width="50%" valign="top">
 </td>
-      <h3>💬 Product Review Sentiment Analysis (NLP)</h3>
-      <p>NLP pipeline (text cleaning, TF-IDF, tokenization) classifying <b>15,000+ e-commerce reviews</b> as positive, negative, or neutral. Compared Naive Bayes and SVM, selecting the best model on <b>F1-score (0.81)</b> for imbalanced classes. Modular scripts, <code>requirements.txt</code>, and a clear README make it easy to reproduce.</p>
-      <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" />
-      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-      <img src="https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/vipinrahul1997">🔗 Repo</a>
-    </td>
+      <h3>🤖 Opinion Metrix AI – Transformer-Based Sentiment Analysis</h3>
+<p>Developed a transformer-based sentiment and opinion analysis system to process customer reviews using <b>Hugging Face Transformers</b>. Performed text cleaning and preprocessing, fine-tuned a transformer model for sentiment classification, and created separate training and prediction scripts with saved model checkpoints for reuse. Integrated <b>database storage</b> for reviews and prediction results and built an interactive <b>Streamlit application</b> to explore predictions and visualize insights.</p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+<br/><br/>
+<a href="YOUR_OPINION_METRIX_GITHUB_REPOSITORY_LINK">🔗 Repo</a>
+</td>``
   </tr>
 </table>
 
